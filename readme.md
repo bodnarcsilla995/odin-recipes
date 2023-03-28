@@ -1,1 +1,1 @@
-butiful code
+beautiful code
