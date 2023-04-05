@@ -1,0 +1,21 @@
+a {
+    font-style: italic;
+    font-size: 20px;
+}
+
+.title {
+    font-style: italic;
+    color: rgb(219, 90, 90);
+}
+
+#pizza-desc {
+    font-weight: bold;
+    color: darkslateblue;
+}
+
+.soup-desc,
+.dessert-desc {
+    color: darkslateblue;
+    font-weight: bold;
+}
+
